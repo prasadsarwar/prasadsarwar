@@ -1,154 +1,71 @@
-<!-- ========================================= -->
-<!--              PROFILE HEADER               -->
-<!-- ========================================= -->
-
-<h1 align="center">Hi 👋, I'm Prasad Sarwar</h1>
+<!-- ========================================================= -->
+<!--                      HERO BANNER                          -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <strong>Software Engineer • Linux Systems Programmer • AI/ML Enthusiast</strong>
+  <img src="assets/banner.png" alt="Prasad Sarwar Banner" width="100%" />
+</p>
+
+<h1 align="center">Prasad Sarwar</h1>
+
+<p align="center">
+Software Engineer • Linux Systems • Backend • AI/ML
 </p>
 
 <p align="center">
-Building software from <strong>system-level programming</strong> to <strong>intelligent applications</strong>.
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer;Linux+Systems+Programmer;Backend+Developer;AI%2FML+Enthusiast;Building+Production+Quality+Software" />
+
 </p>
 
 ---
 
-```console
-prasad@github:~$ whoami
-```
-
-```yaml
-Name:        Prasad Sarwar
-Education:   B.E. Information Technology (Final Year)
-University:  Savitribai Phule Pune University
-
-Focus:
-  - Software Engineering
-  - Linux System Programming
-  - Backend Development
-  - Artificial Intelligence & Machine Learning
-
-Status:
-  Rebuilding every project with production-quality architecture.
-```
-
----
-
-```console
-prasad@github:~$ cat about.md
-```
-
-I'm a Final Year Information Technology Engineering student passionate about building reliable, scalable software with strong computer science fundamentals.
-
-I enjoy solving real-world problems by combining low-level programming with modern software engineering practices. Whether it's implementing data structures in C++, developing Linux system applications, or building AI-powered solutions, I strive to write clean, maintainable, and efficient code.
-
-Alongside engineering, I also manage my own e-commerce business, where I apply automation and software-driven workflows to improve business operations.
-
----
-
-```console
-prasad@github:~$ tree skills/
-```
+## 👨‍💻 About
 
 ```text
-skills
-├── Languages
-│   ├── C
-│   ├── C++
-│   ├── Java
-│   └── Python
-│
-├── Software Engineering
-│   ├── Data Structures & Algorithms
-│   ├── Object-Oriented Programming
-│   ├── Design Principles
-│   └── Problem Solving
-│
-├── Systems Programming
-│   ├── Linux
-│   ├── POSIX
-│   ├── Multithreading
-│   ├── Shell Scripting
-│   └── Automation
-│
-├── AI / ML
-│   ├── Machine Learning
-│   ├── Data Analytics
-│   ├── NumPy
-│   ├── Pandas
-│   └── Scikit-learn
-│
-├── Backend
-│   ├── Flask
-│   ├── REST APIs
-│   ├── MySQL
-│   └── MariaDB
-│
-└── Tools
-    ├── Git
-    ├── GitHub
-    ├── Docker (Learning)
-    └── VS Code
+Name      : Prasad Sarwar
+Role      : Software Engineer
+Education : B.E. Information Technology
+University: Savitribai Phule Pune University
+Location  : Maharashtra, India
+
+Status    : 🟢 Building Production Quality Software
 ```
 
 ---
 
-```console
-prasad@github:~$ ls projects/
-```
-
-| Project | Description |
-|----------|-------------|
-| 🧩 Generic Template Library | High-performance reusable C++ template library |
-| 🖥 Linux Virtual File System | Simulation of a Linux-style file system in C |
-| 🤖 AI Resume Screening | Resume ranking system using AI techniques |
-| 🔍 Fake Instagram Detector | ML-based fake account detection |
-| 🛒 E-commerce Platform | Full-stack business management application |
-| 🌐 Portfolio Website | Personal portfolio showcasing projects |
-
----
-
-```console
-prasad@github:~$ pwd
-```
-
-### 🚀 Currently Working On
-
-- Rebuilding all repositories from scratch
-- Writing production-quality documentation
-- Improving software architecture
-- Strengthening Data Structures & Algorithms
-- Exploring System Design
-- Learning Advanced Machine Learning
-
----
-
-```console
-prasad@github:~$ git status
-```
-
-```diff
-+ Writing clean and maintainable code
-+ Building reusable software
-+ Learning every day
-```
-
----
-
-## 📈 GitHub Statistics
+## 🛠 Tech Stack
 
 <p align="center">
 
-<!-- GitHub Stats -->
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,linux,bash,git,github,mysql,flask,docker,vscode"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🧩 Generic Template Library | STL-inspired reusable C++ library |
+| 🖥 Linux Virtual File System | Linux file system simulation in C |
+| 🤖 AI Resume Screening | AI-powered resume ranking |
+| 🔍 Fake Instagram Detector | Machine Learning classification |
+| 🛒 E-commerce Platform | Business automation system |
+| 🌐 Portfolio Website | Personal engineering portfolio |
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=prasadsarwar&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadsarwar&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
-
----
 
 <p align="center">
 
@@ -158,27 +75,39 @@ prasad@github:~$ git status
 
 ---
 
-```console
-prasad@github:~$ cat goals.txt
+## 📚 Current Focus
+
+```text
+███████████░░░  Generic Template Library
+
+████████░░░░░  Linux Virtual File System
+
+██████░░░░░░░  AI Resume Screening
+
+█████░░░░░░░░ Portfolio Website
 ```
-
-### 🎯 Career Goal
-
-To build scalable software that solves meaningful problems while continuously improving my knowledge of software engineering, Linux systems, artificial intelligence, and distributed systems.
 
 ---
 
-```console
-prasad@github:~$ connect
-```
+## 🌐 Connect
 
-<p align="left">
+<p align="center">
 
-🌐 Portfolio *(Coming Soon)*
+<a href="https://linkedin.com/in/prasadsarwar">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-💼 LinkedIn: https://linkedin.com/in/prasadsarwar
+&nbsp;&nbsp;
 
-📧 Email: your-email@example.com
+<a href="mailto:your-email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/prasadsarwar">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
 </p>
 
@@ -186,6 +115,6 @@ prasad@github:~$ connect
 
 <p align="center">
 
-> **"First, solve the problem. Then, write clean and maintainable code."**
+> Engineering software from low-level systems to intelligent applications.
 
 </p>
