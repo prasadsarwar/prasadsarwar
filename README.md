@@ -63,8 +63,8 @@
 
 <!-- ============ TECH STACK ============ -->
 ## 🛠️ Tech Stack
-
-<div align="center">
+<div>
+<span align="left">
 
 **Languages**
 
@@ -73,6 +73,9 @@
 **Systems**
 
 <img src="https://skillicons.dev/icons?i=linux,bash" />
+</span>
+
+<span align="left">
 
 **Backend**
 
@@ -81,7 +84,7 @@
 **Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
-
+</span>
 </div>
 
 <br/>
