@@ -63,32 +63,44 @@
 
 <!-- ============ TECH STACK ============ -->
 ## 🛠️ Tech Stack
-<span>
-<div align="left">
 
-**Languages**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,py" />
 
-**Systems**
+</td>
+
+<td width="50%" valign="top">
+
+### 🐧 Systems
 
 <img src="https://skillicons.dev/icons?i=linux,bash" />
-</div>
 
-<div align="left">
+</td>
+</tr>
 
-**Backend**
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=flask,mysql,mariadb" />
+### ⚙️ Backend
 
-**Tools**
+<img src="https://skillicons.dev/icons?i=flask,mysql" />
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛠️ Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 
-</div>
-</span>
-<br/>
-
+</td>
+</tr>
+</table>
 <!-- ============ FEATURED PROJECTS ============ -->
 ## 🚀 Featured Projects
 
