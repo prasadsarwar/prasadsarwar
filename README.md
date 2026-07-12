@@ -21,7 +21,7 @@
 <!-- <a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=22C55E" /></a> --></p>
 
 <!-- ============ STATUS BADGES ============ -->
-<br/><br/>
+<br/>
 
 ![Open to Work](https://img.shields.io/badge/Open%20to-Internship%20%2F%20Full--Time-3B82F6?style=flat-square&labelColor=0D1117)
 ![Status](https://img.shields.io/badge/Currently-Learning%20Automations-38BDF8?style=flat-square&labelColor=0D1117)
@@ -41,9 +41,9 @@
 
 - **Name:** Prasad Sarwar
 - **Role:** Software Engineer
-- **Degree:** _Your Degree Here_
-- **University:** _Your University Here_
-- **Location:** _Your Location Here_
+- **Degree:** BE (Information Technology)
+- **University:** Savitribai Phule Pune University, Pune
+- **Location:** Pune
 - **Interests:** Systems Programming, Backend Engineering, AI/ML, Automation
 
 </td>
@@ -75,10 +75,6 @@
 **Systems**
 
 <img src="https://skillicons.dev/icons?i=linux,bash" />
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=flask,mysql,mariadb" />
 
 **Tools**
 
