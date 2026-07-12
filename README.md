@@ -15,10 +15,8 @@
 <br/>
 
 <!-- ============ SOCIAL BUTTONS ============ -->
-<a href="https://linkedin.com/in/prasadsarwar"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
-<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=3B82F6" /></a>
+<a href="https://linkedin.com/in/prasadsarwar" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
 <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F59E0B" /></a>
-<a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=22C55E" /></a>
 
 <!-- ============ STATUS BADGES ============ -->
 <br/><br/>
@@ -91,100 +89,64 @@
 <!-- ============ FEATURED PROJECTS ============ -->
 ## 🚀 Featured Projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top" align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1E293B&height=90&text=Generic%20Template%20Library&fontSize=20&fontColor=F8FAFC&fontAlign=50&fontAlignY=45"/>
+> ### 🔹 <a href="https://github.com/prasadsarwar/generic-template-library" target="_blank" rel="noopener noreferrer">Generic Template Library</a>
+> _Placeholder — coming soon_
+>
+> ![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=3B82F6)
 
-**🔹 Generic Template Library**
-<br/>_Placeholder — coming soon_
+<br/>
 
-![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=3B82F6)
+> ### 🔹 <a href="https://github.com/prasadsarwar/linux-virtual-file-system" target="_blank" rel="noopener noreferrer">Linux Virtual File System</a>
+> _Placeholder — coming soon_
+>
+> ![C](https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=3B82F6)
+> ![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=38BDF8)
+> ![POSIX](https://img.shields.io/badge/POSIX-0D1117?style=flat-square&logoColor=94A3B8)
 
-📄 Architecture &nbsp;·&nbsp; 📸 Screenshots &nbsp;·&nbsp; ⚙️ Install &nbsp;·&nbsp; 📘 Usage
+<br/>
 
-</td>
-<td width="50%" valign="top" align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1E293B&height=90&text=Linux%20Virtual%20File%20System&fontSize=20&fontColor=F8FAFC&fontAlign=50&fontAlignY=45"/>
+> ### 🔹 <a href="https://github.com/prasadsarwar/ai-resume-screening" target="_blank" rel="noopener noreferrer">AI Resume Screening</a>
+> _Placeholder — coming soon_
+>
+> ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3B82F6)
+> ![AI/ML](https://img.shields.io/badge/AI%2FML-0D1117?style=flat-square&logoColor=38BDF8)
 
-**🔹 Linux Virtual File System**
-<br/>_Placeholder — coming soon_
+<br/>
 
-![C](https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=3B82F6)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=38BDF8)
-![POSIX](https://img.shields.io/badge/POSIX-0D1117?style=flat-square&logoColor=94A3B8)
+> ### 🔹 <a href="https://github.com/prasadsarwar/fake-instagram-detector" target="_blank" rel="noopener noreferrer">Fake Instagram Detector</a>
+> _Placeholder — coming soon_
+>
+> ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3B82F6)
+> ![AI/ML](https://img.shields.io/badge/AI%2FML-0D1117?style=flat-square&logoColor=38BDF8)
 
-📄 Architecture &nbsp;·&nbsp; 📸 Screenshots &nbsp;·&nbsp; ⚙️ Install &nbsp;·&nbsp; 📘 Usage
+<br/>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1E293B&height=90&text=AI%20Resume%20Screening&fontSize=20&fontColor=F8FAFC&fontAlign=50&fontAlignY=45"/>
+> ### 🔹 <a href="https://github.com/prasadsarwar/ecommerce-platform" target="_blank" rel="noopener noreferrer">E-commerce Platform</a>
+> _Placeholder — coming soon_
+>
+> ![Flask](https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=F8FAFC)
+> ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=3B82F6)
+> ![MariaDB](https://img.shields.io/badge/MariaDB-0D1117?style=flat-square&logo=mariadb&logoColor=38BDF8)
 
-**🔹 AI Resume Screening**
-<br/>_Placeholder — coming soon_
+<br/>
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3B82F6)
-![AI/ML](https://img.shields.io/badge/AI%2FML-0D1117?style=flat-square&logoColor=38BDF8)
-
-📄 Architecture &nbsp;·&nbsp; 📸 Screenshots &nbsp;·&nbsp; ⚙️ Install &nbsp;·&nbsp; 📘 Usage
-
-</td>
-<td width="50%" valign="top" align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1E293B&height=90&text=Fake%20Instagram%20Detector&fontSize=20&fontColor=F8FAFC&fontAlign=50&fontAlignY=45"/>
-
-**🔹 Fake Instagram Detector**
-<br/>_Placeholder — coming soon_
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3B82F6)
-![AI/ML](https://img.shields.io/badge/AI%2FML-0D1117?style=flat-square&logoColor=38BDF8)
-
-📄 Architecture &nbsp;·&nbsp; 📸 Screenshots &nbsp;·&nbsp; ⚙️ Install &nbsp;·&nbsp; 📘 Usage
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1E293B&height=90&text=E-commerce%20Platform&fontSize=20&fontColor=F8FAFC&fontAlign=50&fontAlignY=45"/>
-
-**🔹 E-commerce Platform**
-<br/>_Placeholder — coming soon_
-
-![Flask](https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=F8FAFC)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=3B82F6)
-![MariaDB](https://img.shields.io/badge/MariaDB-0D1117?style=flat-square&logo=mariadb&logoColor=38BDF8)
-
-📄 Architecture &nbsp;·&nbsp; 📸 Screenshots &nbsp;·&nbsp; ⚙️ Install &nbsp;·&nbsp; 📘 Usage
-
-</td>
-<td width="50%" valign="top" align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1E293B&height=90&text=Portfolio%20Website&fontSize=20&fontColor=F8FAFC&fontAlign=50&fontAlignY=45"/>
-
-**🔹 Portfolio Website**
-<br/>_Placeholder — coming soon_
-
-![TBD](https://img.shields.io/badge/Stack-TBD-0D1117?style=flat-square&logoColor=94A3B8)
-
-📄 Architecture &nbsp;·&nbsp; 📸 Screenshots &nbsp;·&nbsp; ⚙️ Install &nbsp;·&nbsp; 📘 Usage
-
-</td>
-</tr>
-</table>
+> ### 🔹 <a href="https://github.com/prasadsarwar/portfolio-website" target="_blank" rel="noopener noreferrer">Portfolio Website</a>
+> _Placeholder — coming soon_
+>
+> ![TBD](https://img.shields.io/badge/Stack-TBD-0D1117?style=flat-square&logoColor=94A3B8)
 
 <br/>
 
 <!-- ============ GITHUB ANALYTICS ============ -->
-## 📊 GitHub Analytics
+## 📊 Contributions & Activity Overview
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=prasadsarwar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=38BDF8&text_color=F8FAFC" />
-<img height="165" src="https://streak-stats.demolab.com?user=prasadsarwar&hide_border=true&background=0D1117&stroke=3B82F6&ring=38BDF8&fire=F59E0B&currStreakLabel=F8FAFC" />
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=prasadsarwar&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=F8FAFC" />
+<img src="./github-metrics.svg" alt="GitHub Metrics: contribution activity, calendar graph, and most-used languages" width="100%"/>
 
 </div>
+
+<sub>Generated automatically by a GitHub Action running in this repo (see `.github/workflows/metrics.yml`) — includes a full-year contribution/activity graph and languages recomputed on every run, so it's not tied to any third-party server uptime.</sub>
 
 <br/>
 
@@ -204,9 +166,8 @@
 
 <div align="center">
 
-<a href="https://github.com/prasadsarwar"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F8FAFC" /></a>
-<a href="https://linkedin.com/in/prasadsarwar"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
-<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=3B82F6" /></a>
+<a href="https://github.com/prasadsarwar" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F8FAFC" /></a>
+<a href="https://linkedin.com/in/prasadsarwar" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
 <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F59E0B" /></a>
 
 </div>
