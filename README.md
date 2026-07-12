@@ -15,16 +15,16 @@
 <br/>
 
 <!-- ============ SOCIAL BUTTONS ============ -->
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
-<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=3B82F6" /></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F59E0B" /></a>
-<a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=22C55E" /></a>
+<a href="https://linkedin.com/in/prasadsarwar"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
+<!-- <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=3B82F6" /></a> -->
+<a href="mailto:prasadsarwar22@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F59E0B" /></a>
+<!-- <a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=22C55E" /></a> -->
 
 <!-- ============ STATUS BADGES ============ -->
 <br/><br/>
 
 ![Open to Work](https://img.shields.io/badge/Open%20to-Internship%20%2F%20Full--Time-3B82F6?style=flat-square&labelColor=0D1117)
-![Status](https://img.shields.io/badge/Currently-Rebuilding%20Portfolio-38BDF8?style=flat-square&labelColor=0D1117)
+![Status](https://img.shields.io/badge/Currently-Learning%20Automations-38BDF8?style=flat-square&labelColor=0D1117)
 
 </div>
 
@@ -161,10 +161,10 @@ _Placeholder — coming soon_
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=38BDF8&text_color=F8FAFC" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&stroke=3B82F6&ring=38BDF8&fire=F59E0B&currStreakLabel=F8FAFC" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=prasadsarwar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=38BDF8&text_color=F8FAFC" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=prasadsarwar&hide_border=true&background=0D1117&stroke=3B82F6&ring=38BDF8&fire=F59E0B&currStreakLabel=F8FAFC" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=F8FAFC" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadsarwar&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=F8FAFC" />
 
 </div>
 
