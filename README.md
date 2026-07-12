@@ -1,11 +1,13 @@
 <div align="center">
 
 <!-- ============ HERO BANNER ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:3B82F6&height=220&section=header&text=Prasad%20Sarwar&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Linux%20Systems%20•%20Backend%20•%20AI/ML&descAlignY=58&descSize=18&descColor=94A3B8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:3B82F6&height=220&section=header&text=Prasad%20Sarwar&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer&descAlignY=53&descSize=20&descColor=F8FAFC" width="100%"/>
+
+<sub>Linux Systems • AI/ML</sub>
 
 <!-- ============ TYPING ANIMATION ============ -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineer;Linux+Systems+Programmer;Backend+Developer;AI%2FML;Building+Production+Quality+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineer;Linux+Systems+%E2%80%A2+AI%2FML;Building+Production+Quality+Software" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -37,12 +39,11 @@
 
 ### 👤 Profile
 
-- **Name:** Prasad Sarwar
-- **Role:** Software Engineer
-- **Degree:** BE (Information Technology)
-- **University:** Savitribai Phule Pune University, Pune
-- **Location:** Pune
-- **Interests:** Systems Programming, Backend Engineering, AI/ML, Automation
+🎓 Final Year B.E. Information Technology
+<br/>💼 Software Engineer
+<br/>🐧 Linux Systems
+<br/>🤖 AI/ML
+<br/>📍 Pune, Maharashtra
 
 </td>
 <td width="50%" valign="top">
@@ -50,7 +51,7 @@
 ### 📌 Current Status
 
 - 🔧 Rebuilding Portfolio
-- 📚 Learning System Design
+- 📚 Studying System Design
 - 🌱 Open Source Journey
 - 🏗️ Building Production Quality Software
 - 💼 Open to Internship / Full-Time Opportunities
@@ -74,7 +75,7 @@
 
 <img src="https://skillicons.dev/icons?i=linux,bash" />
 
-**Backend**
+**Backend & Database**
 
 <img src="https://skillicons.dev/icons?i=flask,mysql,mariadb" />
 
@@ -90,7 +91,7 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-<a href="https://github.com/prasadsarwar/Python" target="_blank" rel="noopener noreferrer"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=prasadsarwar&repo=python&bg_color=0D1117&title_color=3B82F6&text_color=F8FAFC&icon_color=38BDF8&border_color=30363d" alt="Generic Template Library"/></a>
+<a href="https://github.com/prasadsarwar/generic-template-library" target="_blank" rel="noopener noreferrer"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=prasadsarwar&repo=generic-template-library&bg_color=0D1117&title_color=3B82F6&text_color=F8FAFC&icon_color=38BDF8&border_color=30363d" alt="Generic Template Library"/></a>
 <a href="https://github.com/prasadsarwar/linux-virtual-file-system" target="_blank" rel="noopener noreferrer"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=prasadsarwar&repo=linux-virtual-file-system&bg_color=0D1117&title_color=3B82F6&text_color=F8FAFC&icon_color=38BDF8&border_color=30363d" alt="Linux Virtual File System"/></a>
 <a href="https://github.com/prasadsarwar/ai-resume-screening" target="_blank" rel="noopener noreferrer"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=prasadsarwar&repo=ai-resume-screening&bg_color=0D1117&title_color=3B82F6&text_color=F8FAFC&icon_color=38BDF8&border_color=30363d" alt="AI Resume Screening"/></a>
 <a href="https://github.com/prasadsarwar/fake-instagram-detector" target="_blank" rel="noopener noreferrer"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=prasadsarwar&repo=fake-instagram-detector&bg_color=0D1117&title_color=3B82F6&text_color=F8FAFC&icon_color=38BDF8&border_color=30363d" alt="Fake Instagram Detector"/></a>
@@ -100,30 +101,34 @@
 
 <sub>Cards pull each repo's live name, description, primary language, and stars — nothing to redraw as projects evolve. They'll show a "repo not found" placeholder until each repo above actually exists with that exact name.</sub>
 
+<br/>
+
+<!-- ============ ENGINEERING DASHBOARD ============ -->
+## 📊 Engineering Dashboard
+
+**🎯 Current Focus**
+
+🧩 Generic Template Library &nbsp;·&nbsp; 🖥 Linux Virtual File System &nbsp;·&nbsp; 🤖 AI Resume Screening &nbsp;·&nbsp; 🌐 Portfolio Website &nbsp;·&nbsp; 🌱 Open Source Contributions
+
+**🧭 Engineering Domains**
+
+`Linux Systems` &nbsp; `Backend & Database` &nbsp; `AI/ML` &nbsp; `Automation` &nbsp; `System Design`
+
+**🎯 Career Goal**
+
+Open to Internship / Full-Time opportunities as a Software Engineer.
 
 <br/>
 
-<!-- ============ GITHUB ANALYTICS ============ -->
-## 📊 Contributions & Activity Overview
+<!-- ============ GITHUB STATS ============ -->
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="./github-metrics.svg" alt="GitHub Metrics: full-year contribution graph and most-used languages" width="100%"/>
-
-<sub>Generated by a GitHub Action in this repo (<code>.github/workflows/metrics.yml</code>) — contribution graph and languages are recomputed on every run, so nothing here depends on a third-party server's uptime.</sub>
+<img height="150" src="https://github-stats-extended.vercel.app/api?username=prasadsarwar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=38BDF8&text_color=F8FAFC" />
+<img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=prasadsarwar&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=F8FAFC" />
 
 </div>
-
-<br/>
-
-<!-- ============ CURRENT FOCUS ============ -->
-## 🎯 Current Focus
-
-- [ ] Generic Template Library
-- [ ] Linux Virtual File System
-- [ ] AI Resume Screening
-- [ ] Portfolio Website
-- [ ] Open Source Contributions
 
 <br/>
 
@@ -139,6 +144,12 @@
 </div>
 
 <br/>
+
+<div align="center">
+
+*Always building. Always learning.*
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:0D1117&height=100&section=footer" width="100%"/>
 
