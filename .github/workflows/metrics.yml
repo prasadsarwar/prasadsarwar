@@ -35,5 +35,5 @@ jobs:
 
           # ---- Kernel UI theme ----
           config_timezone: Asia/Kolkata
-          template: classic
+          template: terminal
           config_display: large

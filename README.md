@@ -89,51 +89,68 @@
 <!-- ============ FEATURED PROJECTS ============ -->
 ## 🚀 Featured Projects
 
-> ### 🔹 <a href="https://github.com/prasadsarwar/generic-template-library" target="_blank" rel="noopener noreferrer">Generic Template Library</a>
-> _Placeholder — coming soon_
->
-> ![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=3B82F6)
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+### 🔹 <a href="https://github.com/prasadsarwar/generic-template-library" target="_blank" rel="noopener noreferrer">Generic Template Library</a>
+_Placeholder — coming soon_
 
-> ### 🔹 <a href="https://github.com/prasadsarwar/linux-virtual-file-system" target="_blank" rel="noopener noreferrer">Linux Virtual File System</a>
-> _Placeholder — coming soon_
->
-> ![C](https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=3B82F6)
-> ![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=38BDF8)
-> ![POSIX](https://img.shields.io/badge/POSIX-0D1117?style=flat-square&logoColor=94A3B8)
+![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=3B82F6)
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
-> ### 🔹 <a href="https://github.com/prasadsarwar/ai-resume-screening" target="_blank" rel="noopener noreferrer">AI Resume Screening</a>
-> _Placeholder — coming soon_
->
-> ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3B82F6)
-> ![AI/ML](https://img.shields.io/badge/AI%2FML-0D1117?style=flat-square&logoColor=38BDF8)
+### 🔹 <a href="https://github.com/prasadsarwar/linux-virtual-file-system" target="_blank" rel="noopener noreferrer">Linux Virtual File System</a>
+_Placeholder — coming soon_
 
-<br/>
+![C](https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=3B82F6)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=38BDF8)
+![POSIX](https://img.shields.io/badge/POSIX-0D1117?style=flat-square&logoColor=94A3B8)
 
-> ### 🔹 <a href="https://github.com/prasadsarwar/fake-instagram-detector" target="_blank" rel="noopener noreferrer">Fake Instagram Detector</a>
-> _Placeholder — coming soon_
->
-> ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3B82F6)
-> ![AI/ML](https://img.shields.io/badge/AI%2FML-0D1117?style=flat-square&logoColor=38BDF8)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+### 🔹 <a href="https://github.com/prasadsarwar/ai-resume-screening" target="_blank" rel="noopener noreferrer">AI Resume Screening</a>
+_Placeholder — coming soon_
 
-> ### 🔹 <a href="https://github.com/prasadsarwar/ecommerce-platform" target="_blank" rel="noopener noreferrer">E-commerce Platform</a>
-> _Placeholder — coming soon_
->
-> ![Flask](https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=F8FAFC)
-> ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=3B82F6)
-> ![MariaDB](https://img.shields.io/badge/MariaDB-0D1117?style=flat-square&logo=mariadb&logoColor=38BDF8)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3B82F6)
+![AI/ML](https://img.shields.io/badge/AI%2FML-0D1117?style=flat-square&logoColor=38BDF8)
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
-> ### 🔹 <a href="https://github.com/prasadsarwar/portfolio-website" target="_blank" rel="noopener noreferrer">Portfolio Website</a>
-> _Placeholder — coming soon_
->
-> ![TBD](https://img.shields.io/badge/Stack-TBD-0D1117?style=flat-square&logoColor=94A3B8)
+### 🔹 <a href="https://github.com/prasadsarwar/fake-instagram-detector" target="_blank" rel="noopener noreferrer">Fake Instagram Detector</a>
+_Placeholder — coming soon_
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3B82F6)
+![AI/ML](https://img.shields.io/badge/AI%2FML-0D1117?style=flat-square&logoColor=38BDF8)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 <a href="https://github.com/prasadsarwar/ecommerce-platform" target="_blank" rel="noopener noreferrer">E-commerce Platform</a>
+_Placeholder — coming soon_
+
+![Flask](https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=F8FAFC)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=3B82F6)
+![MariaDB](https://img.shields.io/badge/MariaDB-0D1117?style=flat-square&logo=mariadb&logoColor=38BDF8)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 <a href="https://github.com/prasadsarwar/portfolio-website" target="_blank" rel="noopener noreferrer">Portfolio Website</a>
+_Placeholder — coming soon_
+
+![TBD](https://img.shields.io/badge/Stack-TBD-0D1117?style=flat-square&logoColor=94A3B8)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
