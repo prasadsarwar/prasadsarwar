@@ -15,10 +15,10 @@
 <br/>
 
 <!-- ============ SOCIAL BUTTONS ============ -->
-<a href="https://linkedin.com/in/prasadsarwar"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
+<p><a href="https://linkedin.com/in/prasadsarwar"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
 <!-- <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=3B82F6" /></a> -->
 <a href="mailto:prasadsarwar22@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F59E0B" /></a>
-<!-- <a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=22C55E" /></a> -->
+<!-- <a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=22C55E" /></a> --></p>
 
 <!-- ============ STATUS BADGES ============ -->
 <br/><br/>
